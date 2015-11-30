@@ -1,7 +1,7 @@
 
 CALCUTRÓNICA
 
-Este proyecto esta diseñado para brindar una ayuda en el campo de la electronica, facilitando su comprensión y optimizando el tiempo empleado. Contiene:
+Este proyecto esta diseñado para brindar una ayuda en el campo de la electrónica, facilitando su comprensión y optimizando el tiempo empleado. Contiene:
 
   - Definiciones básicas de algunos conceptos utilizadoss en electrónica.
   - Cálculos de valores de voltaje, corriente y resistencia utilizados en un circuito.
