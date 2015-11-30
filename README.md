@@ -1,7 +1,14 @@
-Este proyecto esta diseñado para brindar una ayuda en el campo de la electronica, facilitando su comprensión y optimizando el tiempo. Contiene:
 
-  - Definiciones básicas de algunos conceptos utilizaoas en electrónica.
-  - Calculos de valores de voltaje, corriente y resistencia.
-  - Calculo de resistencias despues de realizar un montaje, sea serie o paralelo.
-  - Comprobación de valor de resistencias con respecto al codigo de colores
+CALCUTRÓNICA
+
+Este proyecto esta diseñado para brindar una ayuda en el campo de la electronica, facilitando su comprensión y optimizando el tiempo empleado. Contiene:
+
+  - Definiciones básicas de algunos conceptos utilizadoss en electrónica.
+  - Cálculos de valores de voltaje, corriente y resistencia utilizados en un circuito.
+  - Cálculo de resistencias despues de realizar un montaje, sea serie o paralelo.
+  - Rectificación de valor de resistencias con respecto al codigo de colores.
+
+
+
+
 
